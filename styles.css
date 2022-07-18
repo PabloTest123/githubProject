@@ -22,5 +22,20 @@
 .div{
     width: 30px;
     height: 30px;
-    background-color: aquamarine;
+}
+
+.red{
+    background-color: rgb(168, 27, 27);
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.black{
+    background-color: black;
 }
